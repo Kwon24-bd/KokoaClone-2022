@@ -1,0 +1,15 @@
+.point__cog{
+    color: tomato;
+    font-size: 65px;
+    position: absolute;
+    bottom: 15px;
+    left: 65px;
+}
+
+.point__nav{
+    color: tomato;
+    font-size: 65px;
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+}
